@@ -62,3 +62,11 @@ a {
     background: rgb(49, 47, 47);
   }
 }
+
+
+@media(max-width: 500px){ 
+  button {
+    height: 80px;
+    width: 80px;
+  }
+}
