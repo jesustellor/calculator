@@ -69,4 +69,24 @@ a {
     height: 50px;
     width: 50px;
   }
+
+  #buttonAC {
+    width: 100px;
+  }
+  
+  #button9 {
+    width: 100px;
+  }
+  
+  #button6 {
+    width: 50px;
+    height: 100px;
+    vertical-align: bottom;
+    margin: -100px 0 0 0;
+  }
+  
+  .buttonfix > #button6 { 
+    height: 50px;
+  }
+
 }
